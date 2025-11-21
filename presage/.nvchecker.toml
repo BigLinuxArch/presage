@@ -1,4 +1,0 @@
-[presage]
-source = 'regex'
-url = 'https://sourceforge.net/projects/presage/files/presage/'
-regex = 'presage/([\d.]+)/'
